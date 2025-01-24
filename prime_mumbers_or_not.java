@@ -12,12 +12,9 @@ public class prime_mumbers_or_not {
             if(num%i==0){
                 count=count+1;
             }
-
-             
         }
         if(count==1){
             System.out.println("prime");
-
         }
         else
         {
