@@ -1,9 +1,9 @@
 
-import java.util.Scanner;
-
 // 1.You have a number in hand, and your challenge is to write a program that 
 // determines whether this number can be evenly divided by 100. Can you uncover if it‟s a 
 // multiple of 100 or not?
+
+import java.util.Scanner;
 
 public class The_given_number_is_divided_by_100 {
     public static void main(String[] args) {
