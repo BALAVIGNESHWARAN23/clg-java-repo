@@ -1,10 +1,10 @@
-
-import java.util.Scanner;
-
 // 1.You have four secret numbers and your challenge is to write a program that figures 
 // out which one is the largest and which one is the smallest. Use your trusty if-else 
 // statements to solve this number mystery. Can you determine the highest and lowest 
 // numbers among them?
+
+
+import java.util.Scanner;
 
 public class Find_lagest_and_smallest {
     public static void main(String[] args) {
@@ -46,3 +46,4 @@ public class Find_lagest_and_smallest {
    }
     }
 }
+
